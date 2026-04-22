@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.venv1/
+.idea/
+chroma_db/
+chroma_pdf_db/
+*.log
+test.pdf
+Siva*.pdf
+*.pdf
+*.png

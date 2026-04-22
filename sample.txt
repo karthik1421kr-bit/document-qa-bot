@@ -1,0 +1,13 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python emphasizes code readability with its notable use of significant indentation.
+
+Python supports multiple programming paradigms, including structured, object-oriented, and functional programming. It is dynamically typed and garbage-collected.
+
+The Python Package Index (PyPI) hosts thousands of third-party modules for Python. Popular libraries include NumPy for numerical computing, Pandas for data analysis, and TensorFlow for machine learning.
+
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Flask is a micro web framework for Python, known for its simplicity and flexibility.
+
+FastAPI is a modern, fast web framework for building APIs with Python based on standard Python type hints. It was created by Sebastian Ramirez in 2018 and has become extremely popular for building LLM backends.
+
+Python is widely used in data science, artificial intelligence, scientific computing, web development, and automation. Companies like Google, Instagram, Spotify, and Netflix use Python extensively.
+
+The Global Interpreter Lock (GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once. This can limit performance in CPU-bound multi-threaded programs.
