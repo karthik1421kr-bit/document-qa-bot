@@ -79,7 +79,25 @@ Three layers:
 
 ## Project Structure
 
-![img.png](img.png)
+## Project Structure
+
+​```
+document-qa-bot/
+├── app.py              # Streamlit UI + RAG pipeline
+├── rag_basics.py       # Minimal RAG for text files (learning)
+├── rag_pdf.py          # CLI version for PDFs (learning)
+├── sample.txt          # Test document for rag_basics.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md
+​```
+
+## Demo
+
+![Document QA Bot in action](screenshot.png)
+
+Upload any PDF, ask questions, get answers with source citations.
 
 ## Next Steps
 
